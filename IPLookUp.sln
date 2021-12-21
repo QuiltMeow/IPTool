@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLookUp", "IPLookUp\IPLookUp.csproj", "{73637F91-1026-45EC-928A-898F5097109E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73637F91-1026-45EC-928A-898F5097109E}.Debug|x64.ActiveCfg = Debug|x64
+		{73637F91-1026-45EC-928A-898F5097109E}.Debug|x64.Build.0 = Debug|x64
+		{73637F91-1026-45EC-928A-898F5097109E}.Release|x64.ActiveCfg = Release|x64
+		{73637F91-1026-45EC-928A-898F5097109E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B08E3277-AB88-4919-8605-9BDD9A90BADE}
+	EndGlobalSection
+EndGlobal
